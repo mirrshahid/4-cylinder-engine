@@ -1,3 +1,3 @@
 # 4 Cylinder Engine
 
-![Demo][./demo.gif]
+![Demo](./demo.gif)
